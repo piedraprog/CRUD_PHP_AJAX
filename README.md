@@ -50,7 +50,7 @@ link : https://www.apachefriends.org/es/download.html
 
 
 ------------------------------------------------------------
-VERSION 1.0 PROYECTO ATLETAS BASE DE DATOS 3
+VERSION 1.0 CRUD PHP AJAX POSTGRADE SQL
 
 NOTAS ACTUALIZACION: 16/8/2020
 
