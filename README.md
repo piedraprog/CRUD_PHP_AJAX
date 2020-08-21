@@ -55,7 +55,7 @@ VERSION 1.0 PROYECTO ATLETAS BASE DE DATOS 3
 NOTAS ACTUALIZACION: 16/8/2020
 
 1- falta la funcion para borrar la seccion de deportes o solo el deporte no tengo muy claro a que debe afectar 
-2- falta toda la SECCION DE EDICION DE DE REGISTROS COMPELTO DESD ATLETAS HASTA PAISES
+2- falta toda la SECCION DE EDICION DE DE REGISTROS COMPLETO DESD ATLETAS HASTA PAISES
 3- mejorar la distribucion de los datos en la seccion de paises y la de deportes 
 4- talvez agregar un sistemas de credenciales con un login 
 
